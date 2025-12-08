@@ -1,15 +1,12 @@
-<!-- Header -->
 <h1 align="center">Hi there, I'm Wajid Karim 👋</h1>
 <h3 align="center">AI | Machine Learning | Python Developer</h3>
 
 ---
 
-## 🚀 About Me
-- 🔧 Passionate Python developer with focus on **AI, Machine Learning, NLP, and Automation**
-- 🤖 Love building intelligent systems, automation tools, and AI-based applications  
-- 🌱 Always exploring new frameworks, libraries, and emerging technologies  
-- 📚 Outside of tech: reading, nature walks, and coffee with friends  
-- 🤝 Open to collaboration and open-source contributions  
+## 👋 Introduction (Kept Exactly as You Wrote It)
+
+Hi there 👋  
+I love exploring the ever-changing world of tech, diving into new programming languages and tools. I have decent experience with Python and enjoy learning emerging tools to become a better developer. Open-source projects are important to me, and I enjoy working with different teams. When I'm not coding, I like getting lost in a good book, enjoying nature, or having coffee with friends. Let's connect and start a coding adventure together!
 
 ---
 
@@ -17,7 +14,7 @@
 
 ### **Programming**
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,powershell" />
 </p>
 
 ### **Frameworks & Tools**
@@ -30,9 +27,10 @@
 - PyTorch  
 - Scikit-learn  
 - Deep Learning & Neural Networks  
+- Data Science & Data Visualization  
 - NLP & Computer Vision  
-- Data Preprocessing, Visualization & Analysis  
-- Model Training, Tuning & Deployment  
+- Data Mining & Data Analysis  
+- End-to-end Model Training & Deployment  
 
 
 ## 📈 GitHub Activity Graph
@@ -42,16 +40,10 @@
 
 ---
 
-## 📫 Contact Me  
+## 📫 Connect With Me  
 📧 **Email:** karimwajid0101@gmail.com  
-💼 LinkedIn  https://www.linkedin.com/in/wajid-karim-301b6a329/
-
-🌐 **Portfolio:** Add link if available  
-
----
-
-## ⭐ Fun Fact  
-I believe **knowledge grows when shared**, and that’s why I enjoy contributing to projects and learning from the community.
+💼 **LinkedIn:** (Add if you want)  
+🌐 **Portfolio:** (Add if you have one)
 
 ---
 
