@@ -1,50 +1,74 @@
-### Hi there, I'm Wajid Karim 👋
-
-🌟 **AI | Machine Learning | Python Developer**  
-I’m passionate about exploring the ever-evolving world of technology—whether it's learning new tools, building intelligent systems, or experimenting with automation.
-
-I enjoy working on **AI/ML projects**, **automation scripts**, **web scraping**, and **tool development**. Open-source collaboration is something I truly value.
+<!-- Header -->
+<h1 align="center">Hi there, I'm Wajid Karim 👋</h1>
+<h3 align="center">AI | Machine Learning | Python Developer</h3>
 
 ---
 
-### 🚀 About Me
-- 🔧 I love working with Python and building real-world automation + AI applications  
-- 🤖 I explore Machine Learning, Deep Learning, NLP, and Computer Vision  
-- 🌱 Always learning new frameworks, tools, and technologies  
-- 📚 When I’m not coding, you’ll find me reading, spending time in nature, or having coffee with friends  
-- 🤝 Always open to collaborations and project ideas  
+## 🚀 About Me
+- 🔧 Passionate Python developer with focus on **AI, Machine Learning, NLP, and Automation**
+- 🤖 Love building intelligent systems, automation tools, and AI-based applications  
+- 🌱 Always exploring new frameworks, libraries, and emerging technologies  
+- 📚 Outside of tech: reading, nature walks, and coffee with friends  
+- 🤝 Open to collaboration and open-source contributions  
 
 ---
 
-### 🧠 Skills & Technologies
+## 🛠️ Skills & Technologies
 
-**Languages & Tools:**  
-`Python` • `C++` • `JavaScript`  
-`FastAPI` • `Flask`  
-`Git` • `GitHub` • `Linux`  
+### **Programming**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,powershell" />
+</p>
 
-**AI & ML:**  
-`TensorFlow` • `PyTorch` • `Scikit-learn`  
-`Deep Learning` • `Neural Networks`  
-`NLP` • `Data Mining` • `Data Analysis`  
-`Model Training & Deployment`
+### **Frameworks & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,linux,vscode" />
+</p>
 
-**Other Skills:**  
-Automation • Web Scraping • GUI Desktop Apps  
-Data Visualization • Data Science
-
----
-
-### 📫 Contact  
-📧 Email: **karimwajid0101@gmail.com**  
-💼 LinkedIn (optional): *Add if you want*  
-🌐 Portfolio: *Add link here if you have one*
+### **AI / ML Stack**
+- TensorFlow  
+- PyTorch  
+- Scikit-learn  
+- Deep Learning & Neural Networks  
+- NLP & Computer Vision  
+- Data Preprocessing, Visualization & Analysis  
+- Model Training, Tuning & Deployment  
 
 ---
 
-### ⭐ Fun Fact  
-I believe knowledge is best used when shared—and that’s why I love contributing to tech communities and open-source.
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=WajidKarimm&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidKarimm&layout=compact&theme=tokyonight" height="165">
+</p>
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories and connect 🚀
+## 🔥 GitHub Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=WajidKarimm&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidKarimm&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Contact Me  
+📧 **Email:** karimwajid0101@gmail.com  
+💼 **LinkedIn (optional):** Add link if you want  
+🌐 **Portfolio:** Add link if available  
+
+---
+
+## ⭐ Fun Fact  
+I believe **knowledge grows when shared**, and that’s why I enjoy contributing to projects and learning from the community.
+
+---
+
+<p align="center"><b>Thanks for visiting! Feel free to explore my repositories 🚀</b></p>
