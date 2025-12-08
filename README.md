@@ -17,7 +17,7 @@
 
 ### **Programming**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,powershell" />
 </p>
 
 ### **Frameworks & Tools**
@@ -34,23 +34,6 @@
 - Data Preprocessing, Visualization & Analysis  
 - Model Training, Tuning & Deployment  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WajidKarimm&show_icons=true&theme=tokyonight" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidKarimm&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=WajidKarimm&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 GitHub Activity Graph
 <p align="center">
