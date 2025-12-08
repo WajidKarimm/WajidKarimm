@@ -11,7 +11,7 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 ### **Programming**
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,powershell" />
 </p>
 
 ### **Frameworks & Tools**
@@ -40,6 +40,7 @@ I love exploring the ever-changing world of tech, diving into new programming la
 ## 📫 Connect With Me  
 📧 **Email:** karimwajid0101@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/wajid-karim-301b6a329/
+
 🌐 **Portfolio:** (Add if you have one)
 
 ---
