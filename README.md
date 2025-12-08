@@ -44,7 +44,7 @@
 
 ## 📫 Contact Me  
 📧 **Email:** karimwajid0101@gmail.com  
-💼 **LinkedIn ** https://www.linkedin.com/in/wajid-karim-301b6a329/
+💼 LinkedIn  https://www.linkedin.com/in/wajid-karim-301b6a329/
 🌐 **Portfolio:** Add link if available  
 
 ---
