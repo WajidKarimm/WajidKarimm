@@ -39,7 +39,7 @@ Hi there 👋 I love exploring the ever-changing world of tech, diving into new 
 
 📧 **Email:** karimwajid0101@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/wajid-karim-301b6a329/  
-🌐 **Portfolio:** (Add if you have one)
+🌐 **Portfolio:** Coming soon...
 
 ---
 
