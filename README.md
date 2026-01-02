@@ -65,14 +65,6 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidKarimm&bg_color=0d1117&color=ff006e&line=ff006e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-
-</div>
-
 ---
 
 ## Profile Statistics
@@ -88,6 +80,14 @@ I love exploring the ever-changing world of tech, diving into new programming la
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WajidKarimm&theme=radical" alt="Repos per Language" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WajidKarimm&theme=radical" alt="Most Commit Language" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WajidKarimm&theme=radical&utcOffset=5" alt="Productive Time" />
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidKarimm&bg_color=0d1117&color=ff006e&line=ff006e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
@@ -113,6 +113,4 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" alt="Footer" />
-</div>
+
