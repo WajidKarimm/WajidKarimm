@@ -83,7 +83,7 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidKarimm&bg_color=0d1117&color=ff006e&line=ff006e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidKarimm&bg_color=0d1117&color=ff06e&line=ff006e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
