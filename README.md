@@ -63,19 +63,6 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=WajidKarimm&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WajidKarimm&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidKarimm&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
 ---
 
 ## Contribution Graph
