@@ -63,10 +63,6 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 ---
 
----
-
----
-
 ## Profile Statistics
 
 <div align="center">
