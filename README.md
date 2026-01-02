@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Wajid Karim
+# Wajid Karim
 
-### 🚀 AI Engineer | Machine Learning Enthusiast | Python Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+### AI Engineer | Machine Learning Enthusiast | Python Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-karim-301b6a329/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimwajid0101@gmail.com)
@@ -14,37 +12,31 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-> *Passionate about transforming ideas into intelligent solutions through code*
+I am an AI and Machine Learning enthusiast with a deep passion for exploring the ever-evolving technology landscape. With solid experience in Python and a constant drive to master emerging technologies, I strive to become a better developer every day.
 
-I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the ever-evolving tech landscape. With solid experience in **Python** and a constant drive to master emerging technologies, I strive to become a better developer every day.
+**Current Focus:**
+- Working on cutting-edge AI and Machine Learning projects
+- Continuously learning new frameworks and best practices
+- Contributing to open-source projects and collaborative development
+- Building impactful solutions that make a difference
 
-- 🔭 Currently working on cutting-edge AI/ML projects
-- 🌱 Always learning new frameworks and best practices
-- 💡 Passionate about open-source contribution and collaborative development
-- 📚 When not coding: reading, exploring nature, or enjoying coffee conversations
-- 🎯 Goal: Building impactful solutions that make a difference
-
-<div align="center">
-
-### *"Let's connect and embark on a coding adventure together!"*
-
-</div>
+When I'm not coding, I enjoy reading, exploring nature, and having meaningful conversations over coffee.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Skills
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,bash,powershell" alt="Programming Languages" />
 </p>
 
-### 🔧 Frameworks & Development Tools
+### Frameworks & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,linux,vscode,docker" alt="Frameworks and Tools" />
@@ -52,13 +44,13 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 
 </div>
 
-### 🤖 AI & Machine Learning Stack
+### AI & Machine Learning Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### **Deep Learning & Neural Networks**
+**Deep Learning & Neural Networks**
 - TensorFlow & Keras
 - PyTorch
 - Neural Network Architectures
@@ -67,7 +59,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 </td>
 <td width="50%" valign="top">
 
-#### **Data Science & Analysis**
+**Data Science & Analysis**
 - Scikit-learn
 - Pandas & NumPy
 - Data Visualization (Matplotlib, Seaborn)
@@ -78,7 +70,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 <tr>
 <td width="50%" valign="top">
 
-#### **Specialized AI Domains**
+**Specialized AI Domains**
 - Natural Language Processing (NLP)
 - Computer Vision
 - Data Mining
@@ -87,7 +79,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 </td>
 <td width="50%" valign="top">
 
-#### **MLOps & Deployment**
+**MLOps & Deployment**
 - End-to-end Model Training
 - Model Deployment & Serving
 - CI/CD for ML Pipelines
@@ -99,7 +91,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -110,7 +102,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   
@@ -120,7 +112,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Achievements
 
 <div align="center">
   
@@ -130,7 +122,7 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
 <div align="center">
 
@@ -138,19 +130,19 @@ I'm an **AI and Machine Learning enthusiast** with a deep love for exploring the
 <tr>
 <td align="center" width="33%">
 
-### 📧 Email
+**Email**  
 [karimwajid0101@gmail.com](mailto:karimwajid0101@gmail.com)
 
 </td>
 <td align="center" width="33%">
 
-### 💼 LinkedIn
+**LinkedIn**  
 [Connect with me](https://www.linkedin.com/in/wajid-karim-301b6a329/)
 
 </td>
 <td align="center" width="33%">
 
-### 🌐 Portfolio
+**Portfolio**  
 Coming Soon...
 
 </td>
@@ -163,11 +155,9 @@ Coming Soon...
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
 <img src="https://komarev.com/ghpvc/?username=WajidKarimm&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
-### ⭐ Thanks for visiting! Feel free to explore my repositories and let's build something amazing together! 🚀
+**Thanks for visiting. Feel free to explore my repositories and connect.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave" />
 
