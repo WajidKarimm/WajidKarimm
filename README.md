@@ -63,32 +63,6 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 ---
 
-## Profile Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WajidKarimm&theme=radical" alt="Profile Summary" />
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WajidKarimm&theme=radical" alt="Repos per Language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WajidKarimm&theme=radical" alt="Most Commit Language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WajidKarimm&theme=radical&utcOffset=5" alt="Productive Time" />
-
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidKarimm&bg_color=0d1117&color=ff06e&line=ff006e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
