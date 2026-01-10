@@ -1,98 +1,61 @@
-<div align="center">
+# Wajid Karim
 
-# Hi, I’m Wajid Karim
+AI / Machine Learning Engineer  
+Python & Backend Developer
 
-### AI / Machine Learning Engineer | Python & Backend Developer
+## About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-karim-301b6a329/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karimwajid0101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-In_Progress-00C7B7?style=flat-square&logo=google-chrome&logoColor=white)](#)
+I’m a backend-focused AI/ML engineer with experience building production-style APIs and integrating machine learning models into real applications. I work primarily with Python and FastAPI, and I care about clean architecture, clear abstractions, and systems that are easy to extend and maintain.
 
-</div>
+I’m comfortable working in collaborative, Git-driven environments, contributing via pull requests, reviewing code, and iterating based on feedback. I value simplicity, correctness, and reliability over unnecessary complexity.
 
----
-
-## About Me
-
-I’m a backend-focused AI/ML engineer with hands-on experience building and extending production-style APIs. I work primarily with Python and FastAPI, and I enjoy designing clean, scalable systems that integrate machine learning models into real-world applications.
-
-I’m comfortable collaborating in team environments, working with Git-based workflows, reviewing code, and iterating on features based on feedback. I care about code quality, clear structure, and making systems easier to extend over time.
-
-Outside of engineering, I enjoy reading, spending time in nature, and good conversations over coffee.
-
----
+Outside of engineering, I enjoy reading, spending time in nature, and thoughtful conversations.
 
 ## Technical Skills
 
-<div align="center">
+### Languages
+- Python
+- JavaScript
+- Bash
+- PowerShell
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,bash,powershell" />
-</p>
+### Backend & Web
+- FastAPI
+- Flask
+- REST APIs
+- Server-Sent Events (SSE)
 
-### Frameworks, Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,git,github,linux,vscode" />
-</p>
-
-</div>
-
----
-
-## AI / ML Experience
-
-<table>
-<tr>
-<td width="50%">
-
-**Core ML & Deep Learning**
+### AI / Machine Learning
 - PyTorch
 - TensorFlow
 - Scikit-learn
-- Neural networks & model training
-
-</td>
-<td width="50%">
-
-**Applied AI**
-- NLP & Computer Vision
-- Data analysis & visualization
-- End-to-end model deployment
+- NLP and Computer Vision
+- Model training and inference
 - API-based model integration
 
-</td>
-</tr>
-</table>
+### Data & Infrastructure
+- Redis
+- Neo4j
+- PostgreSQL
+- pgvector
+- Docker
+- Linux
 
----
+### Tooling
+- Git
+- GitHub
+- CI workflows
+- Pytest
+- Ruff
 
 ## Current Focus
 
-- Designing FastAPI-based backend services
-- Streaming LLM responses using Server-Sent Events (SSE)
-- Integrating generative models (Gemini, LLM APIs)
-- Building memory-driven AI systems (Redis, Neo4j, pgvector)
-- Writing tests and maintaining CI-friendly codebases
+- Designing FastAPI services for LLM-powered systems
+- Streaming model responses using SSE
+- Building memory-driven AI architectures
+- Writing testable, maintainable backend code
 
----
+## Contact
 
-## Connect
-
-<div align="center">
-
-| Email | LinkedIn | Portfolio |
-|:---:|:---:|:---:|
-| [karimwajid0101@gmail.com](mailto:karimwajid0101@gmail.com) | [Wajid Karim](https://www.linkedin.com/in/wajid-karim-301b6a329/) | In progress |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=WajidKarimm&style=flat-square&color=ff006e" />
-
-**Thanks for stopping by — feel free to explore my repositories.**
-
-</div>
+- Email: karimwajid0101@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wajid-karim-301b6a329/
