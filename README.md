@@ -5,9 +5,9 @@ Python & Backend Developer
 
 ## About
 
-I’m a backend-focused AI/ML engineer with experience building production-style APIs and integrating machine learning models into real applications. I work primarily with Python and FastAPI, and I care about clean architecture, clear abstractions, and systems that are easy to extend and maintain.
+Backend-focused AI/ML engineer with experience building production-grade APIs and integrating machine learning models into real-world systems. I primarily work with Python and FastAPI, with an emphasis on clean architecture, clear abstractions, and maintainable codebases.
 
-I’m comfortable working in collaborative, Git-driven environments, contributing via pull requests, reviewing code, and iterating based on feedback. I value simplicity, correctness, and reliability over unnecessary complexity.
+I’m comfortable operating in collaborative, Git-driven environments — contributing through pull requests, reviewing code, and iterating quickly based on feedback. I value simplicity, correctness, and reliability over unnecessary complexity.
 
 Outside of engineering, I enjoy reading, spending time in nature, and thoughtful conversations.
 
@@ -22,16 +22,17 @@ Outside of engineering, I enjoy reading, spending time in nature, and thoughtful
 ### Backend & Web
 - FastAPI
 - Flask
-- REST APIs
+- RESTful APIs
 - Server-Sent Events (SSE)
 
 ### AI / Machine Learning
 - PyTorch
 - TensorFlow
 - Scikit-learn
-- NLP and Computer Vision
-- Model training and inference
-- API-based model integration
+- Natural Language Processing
+- Computer Vision
+- Model training, inference, and deployment
+- API-based LLM integration
 
 ### Data & Infrastructure
 - Redis
@@ -41,7 +42,7 @@ Outside of engineering, I enjoy reading, spending time in nature, and thoughtful
 - Docker
 - Linux
 
-### Tooling
+### Tooling & Quality
 - Git
 - GitHub
 - CI workflows
@@ -50,12 +51,12 @@ Outside of engineering, I enjoy reading, spending time in nature, and thoughtful
 
 ## Current Focus
 
-- Designing FastAPI services for LLM-powered systems
-- Streaming model responses using SSE
-- Building memory-driven AI architectures
-- Writing testable, maintainable backend code
+- Designing FastAPI services for LLM-powered applications
+- Implementing streaming responses using SSE
+- Building memory-centric AI systems
+- Writing testable, reliable backend code
 
 ## Contact
 
-- Email: karimwajid0101@gmail.com
+- Email: karimwajid0101@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/wajid-karim-301b6a329/
