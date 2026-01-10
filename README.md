@@ -7,7 +7,7 @@ Python & Backend Developer
 
 Backend-focused AI/ML engineer with experience building production-grade APIs and integrating machine learning models into real-world systems. I primarily work with Python and FastAPI, with an emphasis on clean architecture, clear abstractions, and maintainable codebases.
 
-I’m comfortable operating in collaborative, Git-driven environments — contributing through pull requests, reviewing code, and iterating quickly based on feedback. I value simplicity, correctness, and reliability over unnecessary complexity.
+I’m comfortable operating in collaborative, Git-driven environments contributing through pull requests, reviewing code, and iterating quickly based on feedback. I value simplicity, correctness, and reliability over unnecessary complexity.
 
 Outside of engineering, I enjoy reading, spending time in nature, and thoughtful conversations.
 
@@ -16,7 +16,6 @@ Outside of engineering, I enjoy reading, spending time in nature, and thoughtful
 ### Languages
 - Python
 - JavaScript
-- Bash
 - PowerShell
 
 ### Backend & Web
@@ -32,7 +31,7 @@ Outside of engineering, I enjoy reading, spending time in nature, and thoughtful
 - Natural Language Processing
 - Computer Vision
 - Model training, inference, and deployment
-- API-based LLM integration
+- RAG, Agentic RAG 
 
 ### Data & Infrastructure
 - Redis
@@ -40,7 +39,6 @@ Outside of engineering, I enjoy reading, spending time in nature, and thoughtful
 - PostgreSQL
 - pgvector
 - Docker
-- Linux
 
 ### Tooling & Quality
 - Git
