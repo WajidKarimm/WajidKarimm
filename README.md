@@ -11,48 +11,6 @@ I’m comfortable operating in collaborative, Git-driven environments contributi
 
 Outside of engineering, I enjoy reading, spending time in nature, and thoughtful conversations.
 
-## Technical Skills
-
-### Languages
-- Python
-- JavaScript
-- PowerShell
-
-### Backend & Web
-- FastAPI
-- Flask
-- RESTful APIs
-- Server-Sent Events (SSE)
-
-### AI / Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Natural Language Processing
-- Computer Vision
-- Model training, inference, and deployment
-- RAG, Agentic RAG 
-
-### Data & Infrastructure
-- Redis
-- Neo4j
-- PostgreSQL
-- pgvector
-- Docker
-
-### Tooling & Quality
-- Git
-- GitHub
-- CI workflows
-- Pytest
-- Ruff
-
-## Current Focus
-
-- Designing FastAPI services for LLM-powered applications
-- Implementing streaming responses using SSE
-- Building memory-centric AI systems
-- Writing testable, reliable backend code
 
 ## Contact
 
