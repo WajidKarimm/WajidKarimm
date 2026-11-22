@@ -1,4 +1,4 @@
-# Hi, I'm Wajid Kareem 👋
+# Hi, I'm Wajid Karim 👋
 
 **AI Engineer building production multi-agent systems and RAG pipelines.**
 ~2 years of experience shipping LLM apps end to end: backend infrastructure, agent orchestration, and the interfaces on top.
